@@ -1,1 +1,23 @@
+ Check out different colors here: https://www.materialpalette.com/ 
+/*colors.css*/
+.box {
+  min-height: 100px;
+  width: 100%;
+}
 
+.deep_purple {
+	  background-color: #4527a0;
+	  min-height:25px;
+}
+
+.dark_blue {
+  background-color: #0d47a1;
+}
+
+.amber {
+  background-color: #ffa000
+}
+
+.blue_gray {
+  background-color: #607d8b;
+}

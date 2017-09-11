@@ -1,11 +1,11 @@
  body {
   width: 90%;
 	height: 90%;
-	background-color: grey;
+	background-color: black;
 }
 
 .oneblock {
- background-color: #d39b31; 
+ background-color: #22B2E6; 
  width: 50%;
  min-height: 30%;
  display: inline-block;
@@ -15,7 +15,7 @@
 }
 
 .twoblock {
- background-color: #96782a; 
+ background-color: #FE0101; 
  width: 30%;
  min-height: 30%;
  display: inline-block;
@@ -25,7 +25,7 @@
 }
 
 .threeblock {
- background-color: #642a0b ; 
+ background-color: #A4ABD5 ; 
  width: 18.8%;
  min-height: 30%;
  display: inline-block;
@@ -44,7 +44,7 @@
 }
 
 .fiveblock {
- background-color: #ffffff; 
+ background-color: #008D34; 
  width: 49%;
  height: 70%;
  display: inline-block;
